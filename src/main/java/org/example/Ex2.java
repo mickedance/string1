@@ -8,7 +8,9 @@ public class Ex2 {
         String s = "Long example sentence";
 
         char[]ch = s.toCharArray();
+        char charAt6 = s.charAt(6);
 
         System.out.println(ch[6]);
+        System.out.println(charAt6);
     }
 }
