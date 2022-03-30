@@ -7,7 +7,7 @@ public class Ex2 {
     public static void main(String[] args) {
         String s = "Long example sentence";
 
-        char[]ch = s.toCharArray();
+        char[] ch = s.toCharArray();
         char charAt6 = s.charAt(6);
 
         System.out.println(ch[6]);
